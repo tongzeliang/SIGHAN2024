@@ -1,2 +1,4 @@
 # SIGHAN2024
-SIGHAN 2024 shared task——dimABSA
+This repository implements our system for Chinese dimensional ABSA. The three subtask can be illustated as follow
+
+
